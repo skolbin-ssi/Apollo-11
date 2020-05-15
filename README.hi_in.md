@@ -1,5 +1,8 @@
 # अपोलो -11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,34 +12,46 @@
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
+[Nederlands][NL],
 [Polski][PL],
 [Português][PT_BR],
-[Русский][RU],
-[Türkçe][TR],
 [Română][RO],
+[Tiếng Việt][VI],
+[Türkçe][TR],
+[Русский][RU],
 [العربية][AR],
+[فارسی][FA],
 **हिंदी**,
+[বাংলা][BD_BN],
+[မြန်မာ][MM],
+[日本][JA],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
 [한국어][KO_KR]
 
 [AR]:README.ar.md
-[ID]:README.id.md
+[BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
-[IT]:README.it.md
-[PL]:README.pl.md
+[FA]:README.fa.md
 [FR]:README.fr.md
-[PT_BR]:README.pt_br.md
-[TR]:README.tr.md
-[ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
-[KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
-[RU]:README.ru.md
+[ID]:README.id.md
+[IT]:README.it.md
+[JA]:README.ja.md
+[KO_KR]:README.ko_kr.md
+[MM]:README.mm.md
+[PL]:README.pl.md
+[PT_BR]:README.pt_br.md
 [RO]:README.ro.md
+[RU]:README.ru.md
+[TR]:README.tr.md
+[VI]:README.vi.md
+[ZH_CN]:README.zh_cn.md
+[ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
 
 अपोलो ११ मार्गदर्शन कम्प्यूटर (Apollo 11 Guidance computer, AGC) कमांड मॉड्यूल (Comanche055) तथा चंद्र मॉड्यूल (Luminary099) का मूल नियम संग्रह। इसे [Virtual AGC][3] एवं [MIT Museum][4] के सदस्यों द्वारा अंक्रिकित किया गया है। हमारा मुख्य उद्देश्य अपोलो ११ के मूल नियम संग्रह को संकलित करना है। यदि आपने इस संघ्रह के प्रतिलेखन एवं [Luminary 099][5] और [Comanche 055][6] के बीच में किसी भी फर्क का अनावरण किया है, उस दशा में आपका सहयोग PR के रूप में बहुत ही अभिवादित है।
@@ -88,3 +103,9 @@ Ralph R. Ragan     | उप निदेशक<br>इंस्ट्रुमे
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2

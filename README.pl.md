@@ -1,5 +1,8 @@
 # Apollo-11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,31 +12,46 @@
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
-**Polski**
+[Nederlands][NL],
+**Polski**,
 [Português][PT_BR],
+[Română][RO],
+[Tiếng Việt][VI],
+[Türkçe][TR],
 [Русский][RU],
 [العربية][AR],
+[فارسی][FA],
 [हिंदी][HI_IN],
+[বাংলা][BD_BN],
+[မြန်မာ][MM],
+[日本][JA],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
-[한국어][KO_KR],
-[日本][JA]
+[한국어][KO_KR]
 
 [AR]:README.ar.md
-[ID]:README.id.md
+[BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
-[IT]:README.it.md
+[FA]:README.fa.md
 [FR]:README.fr.md
-[JA]:README.ja.md
-[PT_BR]:README.pt_br.md
-[ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
-[KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
+[ID]:README.id.md
+[IT]:README.it.md
+[JA]:README.ja.md
+[KO_KR]:README.ko_kr.md
+[MM]:README.mm.md
+[PL]:README.pl.md
+[PT_BR]:README.pt_br.md
+[RO]:README.ro.md
 [RU]:README.ru.md
+[TR]:README.tr.md
+[VI]:README.vi.md
+[ZH_CN]:README.zh_cn.md
+[ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
 Oryginalny kod źródłowy komputera pokładowego w programie Apollo 11 (AGC) dla modułu dowodzenia (Comanche055) i modułu księżycowego (Luminary099). Zdigitalizowany przez ludzi z [Virtual AGC][3] i [MIT Museum][4]. Celem jest bycie repozytorium dla oryginalnego kodu źródłowego Apollo 11. Z tego powodu, PRy są mile widziane dla każdego przekłamania między transkrypcją w tym repozytorium a oryginalnymi skanami dla [Luminary 099][5] i [Comanche 055][6], jak również dla każdego pliku który mogłem przegapić.
 
@@ -58,7 +76,7 @@ Digitalizacja 		| Ten kod źródłowy został przepisany lub w inny sposób przy
 ### Umowy i zatwierdzenia
 *Pochodzące z [CONTRACT_AND_APPROVALS.agc]*
 
-Ten program AGC bedzię równien określany jako Colossus 2A
+Ten program AGC będzie również określany jako Colossus 2A
 
 Ten program jest przeznaczony do użycia w CM, jak zostało opisane w raporcie `R-577`. Ten program został przygotowany w projekcie DSR `55-23870` i zasponsorowany przez Manned Spacecraft Center of The National Aeronautics and Space Administration za pośrednictwem kontraktu `NAS 9-4065` z Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
 
@@ -84,3 +102,9 @@ Ralph R. Ragan     | Deputy Director<br>Instrumentation Laboratory | 28 Mar 69
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2

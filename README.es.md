@@ -1,5 +1,8 @@
 # Apolo 11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,39 +12,51 @@
 **Español**,
 [Français][FR],
 [Italiano][IT],
+[Nederlands][NL],
 [Polski][PL],
 [Português][PT_BR],
-[Русский][RU],
-[Türkçe][TR],
 [Română][RO],
+[Tiếng Việt][VI],
+[Türkçe][TR],
+[Русский][RU],
 [العربية][AR],
+[فارسی][FA],
 [हिंदी][HI_IN],
+[বাংলা][BD_BN],
+[မြန်မာ][MM],
+[日本][JA],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
 [한국어][KO_KR]
 
 [AR]:README.ar.md
-[ID]:README.id.md
+[BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
-[IT]:README.it.md
-[PL]:README.pl.md
+[FA]:README.fa.md
 [FR]:README.fr.md
-[PT_BR]:README.pt_br.md
-[TR]:README.tr.md
-[ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
-[KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
-[RU]:README.ru.md
+[ID]:README.id.md
+[IT]:README.it.md
+[JA]:README.ja.md
+[KO_KR]:README.ko_kr.md
+[MM]:README.mm.md
+[PL]:README.pl.md
+[PT_BR]:README.pt_br.md
 [RO]:README.ro.md
+[RU]:README.ru.md
+[TR]:README.tr.md
+[VI]:README.vi.md
+[ZH_CN]:README.zh_cn.md
+[ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
 Código fuente original del ordenador guía del Apolo 11 (AGC) para el módulo de comando (Comanche055) y del módulo lunar (Luminary099). Digitalizado por los chicos de [Virtual AGC][3] y [el museo del MIT][4]. El objetivo es ser un repositorio del código fuente original del Apolo 11. De este modo, serán bienvenidos los PRs relacionados con las transcripciones en este repositorio y los escaneos del código fuente original para el [Luminary 099][5] y el [Comanche 055][6], así como cualquier archivo que se me haya olvidado.
 
 ## Cómo contribuir
-Por favor, lea [CONTRIBUTING.md][7] antes de abrir un pull request.
+Por favor, lea [CONTRIBUTING.es.md][7] antes de abrir un pull request.
 
 ## Compilar
 Si está interesado en compilar el código fuente original, eche un vistazo a
@@ -68,16 +83,16 @@ Este programa fue creado para ser usado en el CM tal y como se especifica en el 
 
 Enviado por           | Rol | Fecha
 :-------------------- | :--- | :----
-Margaret H. Hamilton  | Colossus Programming Leader<br>Apollo Guidance and Navigation | 28 Mar 69
+Margaret H. Hamilton  | Líder de programación de Colossus <br> Apollo Guidance and Navigation | 28 mar 69
 
 Aprobado por       | Rol | Fecha
 :----------------- | :--- | :----
-Daniel J. Lickly   | Director, Mission Program Development<br>Apollo Guidance and Navigation Program | 28 Mar 69
-Fred H. Martin     | Colossus Project Manager<br>Apollo Guidance and Navigation Program | 28 Mar 69
-Norman E. Sears    | Director, Mission Development<br>Apollo Guidance and Navigation Program | 28 Mar 69
-Richard H. Battin  | Director, Mission Development<br>Apollo Guidance and Navigation Program | 28 Mar 69
-David G. Hoag      | Director<br>Apollo Guidance and Navigation Program | 28 Mar 69
-Ralph R. Ragan     | Deputy Director<br>Instrumentation Laboratory | 28 Mar 69
+Daniel J. Lickly | Director, Desarrollo del programa de misión <br> Programa de orientación y navegación Apollo | 28 mar 69
+Fred H. Martin | Colossus Project Manager <br> Programa de orientación y navegación Apollo | 28 mar 69
+Norman E. Sears | Director de Desarrollo de Misión <br> Programa de Orientación y Navegación Apollo | 28 mar 69
+Richard H. Battin | Director de Desarrollo de Misión <br> Programa de Orientación y Navegación Apollo | 28 mar 69
+David G. Hoag | Director del Programa de Orientación y Navegación Apollo | 28 mar 69
+Ralph R. Ragan | Subdirector del Laboratorio de Instrumentación | 28 mar 69
 
 [CONTRACT_AND_APPROVALS.agc]:https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc
 [1]:https://cdn.rawgit.com/aleen42/badges/c9246f74/src/nasa.svg
@@ -86,5 +101,11 @@ Ralph R. Ragan     | Deputy Director<br>Instrumentation Laboratory | 28 Mar 69
 [4]:http://web.mit.edu/museum/
 [5]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
-[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
+[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.es.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2
