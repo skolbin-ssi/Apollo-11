@@ -2,6 +2,7 @@
 
 🎌
 **Čeština**,
+[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
@@ -14,6 +15,7 @@
 [Polski][PL],
 [Português][PT_BR],
 [Türkçe][TR],
+[Ukrainian][UA]،
 [Ελληνικά][GR],
 [العربية][AR],
 [日本語][JA],
@@ -23,6 +25,7 @@
 
 [AR]:CONTRIBUTING.ar.md
 [CZ]:CONTRIBUTING.cz.md
+[DA]:CONTRIBUTING.da.md
 [DE]:CONTRIBUTING.de.md
 [EN]:CONTRIBUTING.md
 [ES]:CONTRIBUTING.es.md
@@ -38,6 +41,7 @@
 [PL]:CONTRIBUTING.pl.md
 [PT_BR]:CONTRIBUTING.pt_br.md
 [TR]:CONTRIBUTING.tr.md
+[UA]:CONTRIBUTING.ua.md
 [ZH_CN]:CONTRIBUTING.zh_cn.md
 [ZH_TW]:CONTRIBUTING.zh_tw.md
 

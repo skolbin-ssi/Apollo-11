@@ -9,6 +9,7 @@
 [Bahasa Indonesia][ID],
 [Català][CA],
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
@@ -22,6 +23,7 @@
 [Română][RO],
 [Tiếng Việt][VI],
 [Türkçe][TR],
+[Ukrainian][UA],
 [Ελληνικά][GR],
 [Русский][RU],
 [العربية][AR],
@@ -40,6 +42,7 @@
 [BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [CZ]:README.cz.md
+[DA]:README.da.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
@@ -61,6 +64,7 @@
 [RO]:README.ro.md
 [RU]:README.ru.md
 [TR]:README.tr.md
+[UA]:README.ua.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
@@ -69,7 +73,7 @@
 
 ## 貢献
 
-プルリクエストを開く前に [CONTRIBUTING.md][7] をお読みください。
+プルリクエストを開く前に [CONTRIBUTING.ja.md][7] をお読みください。
 
 ## コンパイル
 
@@ -115,7 +119,7 @@ Ralph R. Ragan    | 副ディレクター<br>機械研究所 | 1969年3月28日
 [4]:http://web.mit.edu/museum/
 [5]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
-[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
+[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.ja.md
 [8]:https://github.com/rburkey2005/virtualagc
 [SWH]:https://flat.badgen.net/badge/Software%20Heritage/Archive/0B3D91
 [SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/

@@ -9,6 +9,7 @@
 [Bahasa Indonesia][ID],
 [Català][CA],
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
@@ -22,6 +23,7 @@
 [Română][RO],
 [Tiếng Việt][VI],
 [Türkçe][TR],
+[Ukrainian][UA],
 [Ελληνικά][GR],
 [Русский][RU],
 [العربية][AR],
@@ -40,6 +42,7 @@
 [BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [CZ]:README.cz.md
+[DA]:README.da.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
@@ -61,6 +64,7 @@
 [RO]:README.ro.md
 [RU]:README.ru.md
 [TR]:README.tr.md
+[UA]:README.ua.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
@@ -69,7 +73,7 @@ Code source original de l'ordinateur de guidage Apollo 11 (AGC) pour le module d
 
 ## Contribuer
 
-Merci de lire [CONTRIBUTING.fr.md][7] avant d'ouvrir un pull request.
+Merci de lire [CONTRIBUTING.fr.md][7] avant d'ouvrir une pull request.
 
 ## Compilation
 
@@ -97,7 +101,7 @@ CE PROGRAMME DE L'AGC SERA ÉGALEMENT DÉSIGNÉ SOUS LE NOM DE :
 
 CE PROGRAMME EST DESTINÉ À ÊTRE UTILISÉ EN CM COMME INDIQUÉ
 DANS LE RAPPORT R-577.  CE PROGRAMME A ÉTÉ PRÉPARÉ DANS LE CADRE
-DU DSRDSR PROJET 55-23870, PARRAINÉ PAR L'ENGIN SPATIAL HABITÉ
+DU DSR PROJET 55-23870, PARRAINÉ PAR L'ENGIN SPATIAL HABITÉ
 CENTRE NATIONAL DE L'AÉRONAUTIQUE ET DE L'ADMINISTRATION SPATIALE
 PAR LE BIAIS DU CONTRAT NAS 9-4065 AVEC LE LABORATOIRE
 D'INSTRUMENTATION, INSTITUT DE TECHNOLOGIE DU MASSACHUSETTS,
@@ -106,7 +110,7 @@ CAMBRIDGE, MASS.
 
 Soumis par           | Rôle | Date
 :------------------- | :--- | :---
-Margaret H. Hamilton | Chef de la programmation Colossus<br>Programme de guidage et de navigation Apollo | 28 Mar 69
+Margaret H. Hamilton | Chef de programmation Colossus<br>Programme de guidage et de navigation Apollo | 28 Mar 69
 
 Approuvé par      | Rôle | Date
 :---------------- | :--- | :---

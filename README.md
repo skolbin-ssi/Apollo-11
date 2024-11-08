@@ -9,6 +9,7 @@
 [Bahasa Indonesia][ID],
 [Català][CA],
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
 **English**,
 [Español][ES],
@@ -22,6 +23,7 @@
 [Română][RO],
 [Tiếng Việt][VI],
 [Türkçe][TR],
+[Ukrainian][UA],
 [Ελληνικά][GR],
 [Русский][RU],
 [العربية][AR],
@@ -40,6 +42,7 @@
 [BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [CZ]:README.cz.md
+[DA]:README.da.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
@@ -61,6 +64,7 @@
 [RO]:README.ro.md
 [RU]:README.ru.md
 [TR]:README.tr.md
+[UA]:README.ua.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
@@ -94,7 +98,7 @@ Digitalisation | This source code has been transcribed or otherwise adapted from
 
 This AGC program shall also be referred to as Colossus 2A.
 
-This program is intended for use in the CM as specified in report `R-577`. This program was prepared under DSR project `55-23870`, sponsored by the Manned Spacecraft Center of The National Aeronautics and Space Administration through contract `NAS 9-4065` with the Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
+This program is intended for use in the Command Module as specified in report `R-577`. This program was prepared under DSR project `55-23870`, sponsored by the Manned Spacecraft Center of The National Aeronautics and Space Administration through contract `NAS 9-4065` with the Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
 
 Submitted by         | Role | Date
 :------------------- | :--- | :---

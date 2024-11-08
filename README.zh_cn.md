@@ -9,6 +9,7 @@
 [Bahasa Indonesia][ID],
 [Català][CA],
 [Čeština][CZ],
+[Dansk][DA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
@@ -22,6 +23,7 @@
 [Română][RO],
 [Tiếng Việt][VI],
 [Türkçe][TR],
+[Ukrainian][UA],
 [Ελληνικά][GR],
 [Русский][RU],
 [العربية][AR],
@@ -40,6 +42,7 @@
 [BD_BN]:README.bd_bn.md
 [CA]:README.ca.md
 [CZ]:README.cz.md
+[DA]:README.da.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
@@ -61,6 +64,7 @@
 [RO]:README.ro.md
 [RU]:README.ru.md
 [TR]:README.tr.md
+[UA]:README.ua.md
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
@@ -102,7 +106,7 @@ Margaret H. Hamilton | Colossus 程序设计负责人<br>阿波罗制导 |  1969
 核准人             | Role | 日期
 :---------------- | :--- | :--
 Daniel J. Lickly  | 负责人、任务程序开发<br>阿波罗制导程序 | 1969 年 3 月 28 日
-Fred H. Martin    | Colossus 项目经理<br>阿波罗制导程序 |  1969 年 3月 28 日
+Fred H. Martin    | Colossus 项目经理<br>阿波罗制导程序 |  1969 年 3 月 28 日
 Norman E. Sears   | 负责人、任务开发<br>阿波罗制导程序 | 1969 年 3 月 28 日
 Richard H. Battin | 负责人、任务开发<br>阿波罗制导程序 | 1969 年 3 月 28 日
 David G. Hoag     | 负责人<br>阿波罗制导程序 | 1969 年 3 月 28 日
